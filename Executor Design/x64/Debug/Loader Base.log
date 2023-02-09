@@ -1,0 +1,4 @@
+﻿  Loader.cpp
+C:\Menu remake part 2\Loader.cpp(39,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Menu remake part 2\Loader.cpp(40,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Loader Base.vcxproj -> C:\Menu remake part 2\x64\Debug\External Menu Base.exe
